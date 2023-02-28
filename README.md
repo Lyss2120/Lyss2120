@@ -11,7 +11,7 @@ Here are some ideas to get you started:-->
 - 😄 Pronouns: her/she...
 - ⚡ I love art! drawing and paint is one of my hobbies...
 
-<div style="display: inline_block"><br>
+<!-- div style="display: inline_block"><br>
   
   <img align="left" alt="lys-pic" height="300" src="https://i.gifer.com/U3xO.gif">
   
@@ -21,7 +21,7 @@ Here are some ideas to get you started:-->
   
   <iframe src="https://giphy.com/embed/p6EDJOPtyd0DJSuDef" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Trakto--loop-background-trakto-p6EDJOPtyd0DJSuDef">via GIPHY</a></p>
   <img align="center"  src="https://giphy.com/embed/p6EDJOPtyd0DJSuDef" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img>
-  
+  -->
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
