@@ -19,14 +19,4 @@ Here are some ideas to get you started:-->
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="lys-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/3411cc53f46859646eaec6614cf85dc5.gif">
   
-  <img align="right" alt="lys-pic" height="150" style="border-radius:50px;" src="https://www.canva.com/design/DAFb1bXqRr0/x0NfYtKso_XshFUV2E04Wg/edit?utm_content=DAFb1bXqRr0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
-    <img align="right" alt="lys-pic" height="150" style="border-radius:50px;" src="https://www.canva.com/design/DAFb1obQwu0/p5zT20mjaYEk0xuyA6UWxA/edit?utm_content=DAFb1obQwu0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
-  
-  <img align="right" alt="lys-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/0f528149eafc874a7189831f4279baf2.gif">
-  
-  https://i.picasion.com/pic92/0f528149eafc874a7189831f4279baf2.gif
-  https://www.canva.com/design/DAFb1obQwu0/p5zT20mjaYEk0xuyA6UWxA/edit?utm_content=DAFb1obQwu0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-  
-  https://www.canva.com/design/DAFb1bXqRr0/x0NfYtKso_XshFUV2E04Wg/edit?utm_content=DAFb1bXqRr0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-  https://www.canva.com/design/DAFb1Wi0czI/5aZ31UcQqnJVZX1R3J_jnQ/watch?utm_content=DAFb1Wi0czI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 </div>
